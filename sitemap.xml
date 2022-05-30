@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://thomashanart.github.io/portfolio/</loc>
     <lastmod>2022-05-09T10:42:54+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/projet/</loc>
+    <loc>https://thomashanart.github.io/portfolio/projets/projet/</loc>
     <lastmod>2022-05-09T10:42:54+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/projets/</loc>
+    <loc>https://thomashanart.github.io/portfolio/projets/</loc>
     <lastmod>2022-05-09T10:42:54+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://thomashanart.github.io/portfolio/blog/</loc>
     <lastmod>2022-04-25T11:15:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <loc>https://thomashanart.github.io/portfolio/blog/mon-premier-article/</loc>
     <lastmod>2022-04-25T11:15:41+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://thomashanart.github.io/portfolio/tags/</loc>
   </url>
 </urlset>
